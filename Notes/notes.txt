@@ -1,0 +1,12 @@
+file system is slow 
+database help us talk with the data -. using SQL (STRUCTURED QUERY LANGUAGE) -> database will answer your questions 
+Excels cant handle big data
+databases are secure
+
+Since we have a lot of interactions (generating sqls and handling interactions , account management etc etc)with database it needs to be managed because database is just a container with storage, thats why we need database management system
+DBMS can manage security , data and everything
+
+Now we have the data and the software but we need the hardware as well to run it, we usually cant run it on our pc as it can go offline, so we need a server(always available) 
+
+keywords learned above: SQL ,DB, DBMS and the need of server
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
