@@ -1,0 +1,7 @@
+types of database:
+  SQL:   -> Relational : relation between tables ,example: Postgres
+  NoSQL: -> key value : key value databases ,example: Redis, dynamoDB
+         -> column based : group data based on columns, advanced , handle huge amount , example: Cassandra
+         -> graph : relationship between objects , connect he data points ,example: Neo4j
+         -> document: data stored as documents and how to store doesnt matter, document : MongoDB
+
