@@ -1,0 +1,7 @@
+SQL execution order (simplified):
+
+FROM / JOIN
+WHERE ⬅️ filters rows
+GROUP BY
+HAVING ⬅️ filters groups
+SELECT
